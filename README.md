@@ -1,4 +1,21 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7849570&assignment_repo_type=AssignmentRepo)
+
+Hi. Below are links to the Jamboard we used to plan, the low fidelity wireframe and our high fidelity wireframe
+
+##### The design phase Jamboard
+
+https://jamboard.google.com/d/1eRmyFzaziI1ojUZEmhePw32CQwEHHv4KYeyjXoDLH9k/edit?usp=sharing
+
+##### Our low-fidelity wireframe on Miro
+
+https://miro.com/app/board/uXjVO1Qg7KQ=/?share_link_id=746486258966
+
+
+##### Our High-fidelity wireframe on Figma
+
+https://www.figma.com/file/tVMVzFrj3PdlfHXecwYm7S/Dapper?node-id=0%3A1
+
+
 # Hackathon - Use your UI/UX skills to design a business landing page
 
 For this hackathon, you'll be using the business idea that you brainstormed during the mindset session.
